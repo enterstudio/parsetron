@@ -10,3 +10,4 @@ tox
 virtualenv
 coveralls
 sphinx_rtd_theme
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
